@@ -1,0 +1,9 @@
+seniorProject/node_modules
+
+seniorProject/src/**/*.js
+
+seniorProject/src/**/*.map
+
+seniorProject/npm-debug.log
+
+npm-debug.log
